@@ -9,3 +9,4 @@
 - [ ] [2. Hafta - 11 Ekim 2021 Pazartesi](02_11_10_2021.md)
 - [x] [3. Hafta - 18 Ekim 2021 Pazartesi](03_18_10_2021.md)
 - [ ] [4. Hafta - 25 Ekim 2021 Pazartesi](04_25_10_2021.md)
+- [ ] [5. Hafta - 1 Kasım 2021 Pazartesi](05_01_11_2021.md)
